@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-081429?style=flat&logo=mysql&logoColor=6ec1ff)&nbsp;
 ![Apollo](https://img.shields.io/badge/-Apollo-081429?style=flat&logo=apollo-graphql&logoColor=633eff)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-081429?style=flat&logo=redux&logoColor=9f63ff)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-081429?style=flat&logo=heroku&logoColor=7000ff)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-081429?style=flat&logo=heroku&logoColor=9a4bff)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
