@@ -26,7 +26,7 @@
 ![Graphql](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
 ![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=flat&logo=apollo-graphql&logoColor=311C87)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-9cf?style=flat&logo=heroku&logoColor=430098)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-lightgrey?style=flat&logo=heroku&logoColor=430098)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
