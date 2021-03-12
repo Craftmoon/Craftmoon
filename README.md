@@ -24,7 +24,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-081429?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![Graphql](https://img.shields.io/badge/-GraphQL-081429?style=flat&logo=graphql&logoColor=E10098)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-081429?style=flat&logo=mysql&logoColor=6ec1ff)&nbsp;
-![Apollo](https://img.shields.io/badge/-Apollo-081429?style=flat&logo=apollo-graphql&logoColor=633eff)&nbsp;
+![Apollo](https://img.shields.io/badge/-Apollo-081429?style=flat&logo=apollo-graphql&logoColor=765dff)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-081429?style=flat&logo=redux&logoColor=9f63ff)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-081429?style=flat&logo=heroku&logoColor=9a4bff)&nbsp;
 
