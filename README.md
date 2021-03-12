@@ -15,7 +15,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Material-ui](https://img.shields.io/badge/-Material-ui-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=material-ui&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=material&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -26,5 +26,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vitor-augusto-silva-8aa2b1135"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vitor-augusto-silva-8aa2b1135"><img src="https://img.shields.io/badge/-Vitor%20Augusto%20Silva-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
