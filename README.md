@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;I'm Junior Fullstack Developer with 2 years+ of professional experience, focused on fullstack web development.\
+🌱 &nbsp;I'm Junior Fullstack Developer with 2 years+ of professional experience.\
 🎓 &nbsp;I have a Software Engineering degree at Anapolis University Center (Brazil) with a 1 year exchange to Shibaura Institute of Technology (Japan).\
-✍️ &nbsp;In my free time, I pursue Game Development as a hobby. :).\
-📄 &nbsp;Please have a look at my [LinkedinProfile](https://www.linkedin.com/in/vitor-augusto-silva-8aa2b1135/) for more details about me. Feel free to contact me!
+✍️ &nbsp;In my free time, I do some game development as a hobby using Godot and Unity. :).\
+📄 &nbsp;Please have a look at my [LinkedinProfile](https://www.linkedin.com/in/vitor-augusto-silva-8aa2b1135/) for more details. Feel free to contact me!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
