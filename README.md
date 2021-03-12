@@ -5,7 +5,7 @@
 🌱 &nbsp;I'm Junior Fullstack Developer with 2 years+ of professional experience.\
 🎓 &nbsp;I have a Software Engineering degree at Anapolis University Center (Brazil) with a 1 year exchange to Shibaura Institute of Technology (Japan).\
 ✍️ &nbsp;In my free time, I do some game development as a hobby using Godot and Unity. :).\
-📄 &nbsp;Please have a look at my [LinkedinProfile](https://www.linkedin.com/in/vitor-augusto-silva-8aa2b1135/) for more details. Feel free to contact me!
+📄 &nbsp;Please have a look at my [LinkedinProfile](https://www.linkedin.com/in/vitor-augusto-silva-8aa2b1135/) for more details. Feel free to contact me at v.augustosilva@gmail.com !
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -26,7 +26,7 @@
 ![Graphql](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
 ![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=flat&logo=apollo-graphql&logoColor=311C87)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku&logoColor=430098)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-9cf?style=flat&logo=heroku&logoColor=430098)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
