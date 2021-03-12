@@ -24,9 +24,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-081429?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-081429?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Graphql](https://img.shields.io/badge/-GraphQL-081429?style=flat&logo=graphql&logoColor=E10098)&nbsp;
-![Apollo](https://img.shields.io/badge/-Apollo-081429?style=flat&logo=apollo-graphql&logoColor=311C87&labelColor=324567)&nbsp;
+![Apollo](https://img.shields.io/badge/-Apollo-081429?style=flat&logo=apollo-graphql&logoColor=311C87&labelColor=848484)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-081429?style=flat&logo=redux&logoColor=764ABC)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-081429?style=flat&logo=heroku&logoColor=430098&labelColor=324567)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-081429?style=flat&logo=heroku&logoColor=430098&labelColor=848484)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
