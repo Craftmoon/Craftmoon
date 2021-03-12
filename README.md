@@ -11,7 +11,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-5e5e5e?style=flat&logo=javascript&labelColor=081429)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-081429?style=flat&logo=javascript&labelColor=5e5e5e)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-5e5e5e?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-5e5e5e?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-5e5e5e?style=flat&logo=react)&nbsp;
