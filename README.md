@@ -23,10 +23,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-081429?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-081429?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![Graphql](https://img.shields.io/badge/-GraphQL-081429?style=flat&logo=graphql&logoColor=E10098)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-081429?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Apollo](https://img.shields.io/badge/-Apollo-081429?style=flat&logo=apollo-graphql&logoColor=311C87)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-081429?style=flat&logo=redux&logoColor=764ABC)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-081429?style=flat&logo=heroku&logoColor=c393ff)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-081429?style=flat&logo=mysql&logoColor=6ec1ff)&nbsp;
+![Apollo](https://img.shields.io/badge/-Apollo-081429?style=flat&logo=apollo-graphql&logoColor=633eff)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-081429?style=flat&logo=redux&logoColor=9f63ff)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-081429?style=flat&logo=heroku&logoColor=7000ff)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
