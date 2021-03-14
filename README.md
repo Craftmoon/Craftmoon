@@ -4,7 +4,7 @@
 
 🌱 &nbsp;I'm Junior Fullstack Developer with 2 years+ of professional experience.\
 🎓 &nbsp;Graduated in Software Engineering at Anapolis University Center (Brazil) with a 1 year exchange to Shibaura Institute of Technology (Japan).\
-✍️ &nbsp;In my free time, I do some game development as a hobby using Godot and Unity. :).\
+✍️ &nbsp;In my free time, I do some game development as a hobby using Godot and Unity. :)\
 📄 &nbsp;Please have a look at my [LinkedinProfile](https://www.linkedin.com/in/vitor-augusto-silva-8aa2b1135/) for more details. Feel free to contact me at v.augustosilva@gmail.com !
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
