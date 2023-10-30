@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;I'm Junior Fullstack Developer with 2 years+ of professional experience.\
+🌱 &nbsp;I'm midlevel Front-end Developer with 4 years+ of professional experience.\
 🎓 &nbsp;Graduated in Software Engineering at Anapolis University (Brazil) with a 1 year exchange to Shibaura Institute of Technology (Japan).\
 ✍️ &nbsp;In my free time, I do some game development as a hobby using Godot and Unity. :)\
 📄 &nbsp;Please have a look at my [LinkedinProfile](https://www.linkedin.com/in/vitor-augusto-silva-8aa2b1135/) for more details. Feel free to contact me at v.augustosilva@gmail.com !
